@@ -1,0 +1,15 @@
+Control ID,Control Name,Internal Document,ISO 27001:2022,SOC 2 (TSC),NIST CSF 2.0,Owner,Status,Evidence Reference
+CTL-01,Information Security Policy,governance/policies/information-security-policy.md,A.5.1,CC1.1,GV.PO,CISO,Implemented,EV-001
+CTL-02,Access Control,governance/policies/access-control-policy.md,A.5.15,CC6.1,PR.AA,CISO,Implemented,EV-002
+CTL-03,Data Classification,governance/policies/data-classification-policy.md,A.5.12,CC6.1,PR.DS,CISO,Implemented,EV-003
+CTL-04,Acceptable Use,governance/policies/acceptable-use-policy.md,A.5.10,CC1.1,PR.AT,CISO,Implemented,EV-004
+CTL-05,Password and Authentication,governance/standards/password-standard.md,A.8.5,CC6.1,PR.AA,IT Operations,Implemented,EV-005
+CTL-06,Access Review,governance/procedures/access-review-procedure.md,A.5.18,CC6.2,PR.AA,Security Team,Partial,EV-006
+CTL-07,Risk Management,risk/risk-management-framework.md,Clause 6 / A.5.7,CC3.1,ID.RA,CISO,Implemented,EV-007
+CTL-08,Vulnerability Management,risk/risk-register.csv,A.8.8,CC7.1,ID.RA,IT Operations,Partial,EV-008
+CTL-09,Logging and Monitoring,(in progress),A.8.15,CC7.2,DE.CM,Security Team,Planned,EV-009
+CTL-10,Change Management,(in progress),A.8.32,CC8.1,PR.PS,IT Operations,Planned,EV-010
+CTL-11,Incident Management,(in progress),A.5.24,CC7.4,RS.MA,Security Team,Planned,EV-011
+CTL-12,Backup and Recovery,(in progress),A.8.13,A1.2,RC.RP,IT Operations,Planned,EV-012
+CTL-13,Supplier/Third-Party Security,(in progress),A.5.19,CC9.2,GV.SC,Procurement,Planned,EV-013
+CTL-14,Security Awareness Training,(in progress),A.6.3,CC1.4,PR.AT,HR/Security,Partial,EV-014
