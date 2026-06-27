@@ -1,0 +1,15 @@
+Evidence ID,Control ID,Control Name,Evidence Description,Evidence Type,Source System,Collection Frequency,Owner,Last Collected,Status,Location
+EV-001,CTL-01,Information Security Policy,Approved and published policy document,Document,Policy repository,Annual,CISO,2025-01-15,Current,governance/policies/information-security-policy.md
+EV-002,CTL-02,Access Control,Access control configuration and policy,Configuration,IAM,Quarterly,Security Team,2025-01-15,Current,governance/policies/access-control-policy.md
+EV-003,CTL-03,Data Classification,Classification policy and labeling samples,Document,Policy repository,Annual,CISO,2025-01-15,Current,governance/policies/data-classification-policy.md
+EV-004,CTL-04,Acceptable Use,Signed acceptable use acknowledgements,Record,HR system,Annual,HR,2025-01-15,Current,governance/policies/acceptable-use-policy.md
+EV-005,CTL-05,Password and Authentication,Password policy config and MFA enrollment report,Configuration,IAM,Quarterly,IT Operations,2025-01-15,Current,governance/standards/password-standard.md
+EV-006,CTL-06,Access Review,Completed quarterly access review records,Record,IAM,Quarterly,Security Team,2025-01-15,Pending,governance/procedures/access-review-procedure.md
+EV-007,CTL-07,Risk Management,Approved risk framework and current register,Document,GRC repo,Quarterly,CISO,2025-01-15,Current,risk/risk-register.csv
+EV-008,CTL-08,Vulnerability Management,Vulnerability scan reports and remediation tickets,Report,Scanner,Monthly,IT Operations,2025-01-15,Pending,risk/risk-register.csv
+EV-009,CTL-09,Logging and Monitoring,Log retention config and alert samples,Configuration,SIEM,Monthly,Security Team,,Planned,
+EV-010,CTL-10,Change Management,Sample of approved change records,Record,Ticketing,Monthly,IT Operations,,Planned,
+EV-011,CTL-11,Incident Management,Incident response plan and exercise records,Document,GRC repo,Annual,Security Team,,Planned,
+EV-012,CTL-12,Backup and Recovery,Backup logs and restore test results,Record,Backup system,Quarterly,IT Operations,,Planned,
+EV-013,CTL-13,Third-Party Security,Vendor assessments and contract clauses,Record,Vendor mgmt,Annual,Procurement,,Planned,
+EV-014,CTL-14,Security Awareness Training,Training completion report and phishing results,Report,LMS,Quarterly,HR/Security,2025-01-15,Pending,
