@@ -1,0 +1,24 @@
+# CODEOWNERS
+# Defines review ownership for GRC content.
+# Replace the placeholder owners with real GitHub teams or users.
+# Format: <path>  <owner>
+
+# Default owner for everything
+*                       @org/grc-team
+
+# Governance documents
+/governance/            @org/grc-team
+/governance/policies/   @org/security-leadership
+/governance/standards/  @org/security-engineering
+
+# Risk management
+/risk/                  @org/risk-team
+
+# Compliance and framework mappings
+/compliance/            @org/compliance-team
+
+# Audit content
+/audit/                 @org/internal-audit
+
+# Templates
+/templates/             @org/grc-team
