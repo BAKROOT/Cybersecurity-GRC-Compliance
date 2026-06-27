@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Office temp / lock files
+~$*
+*.tmp
+
+# Local exports and working copies
+*.local.*
+/exports/
+/drafts-local/
+
+# Sensitive material - never commit
+secrets/
+*.key
+*.pem
+*.env
+.env
+credentials*
